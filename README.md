@@ -38,6 +38,17 @@ Sentiment-Analysis/
 
 ---
 
+## Dataset
+
+The dataset used in this project is the IMDB 50K Movie Reviews dataset.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Place the dataset inside the `data/` folder before running `train.py`.
+
+---
+
 ## Features
 
 - Text preprocessing (lowercasing, HTML removal, regex cleaning)
