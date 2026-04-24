@@ -106,7 +106,7 @@ The web app allows users to:
 ## How to Run the Project
 
 ### 1. Clone Repository
-git clone https://github.com/Habibshahx/sentiment-analysis.git
+git clone https://github.com/Habibshahx/imdb-sentiment-analysis.git
 cd sentiment-analysis
 
 ### 2. Install Dependencies
